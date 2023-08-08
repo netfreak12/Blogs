@@ -299,7 +299,7 @@ wc -lwc star_map.txt
 
 **📜 Explanation:** By casting the `wc` spell with the `-lwc` flags, you command the cosmos to reveal the number of lines, words, and characters within the `star_map.txt` [parchment](https://dictionary.cambridge.org/dictionary/english/parchment). The output unveils a mystical trio of numerical insights, guiding you through the cosmic expanse of data.
 
-**Example 3: Refining with** `awk` **- The Sage's Quill**
+**Example 3: Refining with** `awk` **\- The Sage's Quill**
 
 Introducing `awk`, the sage's quill of command chaining! 🪶 In this example, we'll summon the power of `awk` to extract specific columns from a treasure chest of data:
 
