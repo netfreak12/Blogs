@@ -5,6 +5,7 @@ seoDescription: "Discover powerful shell alternatives for tech enthusiasts. Expl
 datePublished: Fri Sep 15 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clnbfpunu001p09l03jj97jb8
 slug: exploring-alternative-shells-bash-sh-ksh-tsh-zsh-fish-and-beyond
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xbEVM6oJ1Fs/upload/525e648b81178fdb76fa5a9917545285.jpeg
 tags: terminal, bash, zsh, command-line, shell-scripting
 
 ---
